@@ -1,3 +1,4 @@
+// Place your settings in this file to overwrite the default settings
 {
     "editor.wordWrap": "on",
     "workbench.colorTheme": "Default Light+",
@@ -7,5 +8,8 @@
     "window.zoomLevel": 0,
     "git.enableSmartCommit": true,
     "git.confirmSync": false,
-    "git.autofetch": true
+    "git.autofetch": true,
+    "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
 }
