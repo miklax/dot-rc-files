@@ -1,4 +1,4 @@
-## Flexbox cheatsheat by (Jen Kramer)[https://github.com/jen4web]
+## Flexbox cheatsheat by Jen Kramer https://github.com/jen4web
 
 # Flexbox Explained
 
